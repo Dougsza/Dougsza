@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Douglas Souza Silva.
-- 🎓 I'm on the 8th semester of Computer Science (My last semester).
-- 🌱 I’m currently learning C# and i'm leaning how to create apps with Flutter on Udemy.
-- 📈 I'm looking to learn more about today technologies and and put my knowledge into practice.
+- 👋 Hi, my name is Douglas.
+-    I'm a computer science student.
+-    I’m currently learning C# and i'm leaning how to create apps with Flutter on Udemy.
+-    I'm looking to learn more about today technologies and and put my knowledge into practice.
 - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/douglas-de-souza-silva-688494178/) 
 
 <!---
