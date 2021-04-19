@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Douglas.
 - &nbsp; I'm a computer science student.
 - &nbsp; I’m currently learning C# and how to create apps with Flutter on Udemy.
--  I'm looking to learn more about today technologies and and put my knowledge into practice.
+- &nbsp; I'm looking to learn more about today technologies and and put my knowledge into practice.
 - 📫 You can find me on [Linkedin](https://www.linkedin.com/in/douglas-de-souza-silva-688494178/) 
 
 <!---
